@@ -20,9 +20,9 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/lovable-uploads/0e4c5bb8-a40a-494c-b635-ae499c5c9ed0.png" 
-              alt="DedSilva PTY LTD" 
-              className="h-10 w-auto"
+              src="/lovable-uploads/c025f1ee-8807-4d3f-b853-78786250604c.png" 
+              alt="DedSilva International LTD" 
+              className="h-10 w-auto hover:scale-105 transition-transform duration-300"
             />
           </div>
 
