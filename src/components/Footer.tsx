@@ -68,11 +68,11 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-4 w-4 text-primary flex-shrink-0" />
-                <span className="text-gray-300 text-sm">123 Logistics Way, Manchester, UK M1 2AB</span>
+                <span className="text-gray-300 text-sm">cardinal otunga, nairobi, kenya</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-4 w-4 text-primary flex-shrink-0" />
-                <span className="text-gray-300 text-sm">+44 20 1234 5678</span>
+                <span className="text-gray-300 text-sm">+254 255 99 722</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-4 w-4 text-primary flex-shrink-0" />
@@ -180,7 +180,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           {/* Copyright */}
           <div className="text-gray-400 text-sm">
-            © {currentYear} DedSilva PTY LTD. All rights reserved.
+            © {currentYear} DedSilva international LTD. All rights reserved.
           </div>
 
           {/* Legal Links */}

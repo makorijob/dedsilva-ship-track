@@ -5,14 +5,14 @@ import globalRoutes from "@/assets/global-routes.jpg";
 
 const About = () => {
   const stats = [
-    { icon: Globe, number: "150+", label: "Countries Served", description: "Global reach across all continents" },
-    { icon: Users, number: "50,000+", label: "Happy Customers", description: "Trusted by businesses worldwide" },
+    { icon: Globe, number: "5+", label: "Countries Served", description: "Global reach across all continents" },
+    { icon: Users, number: "5000+", label: "Happy Customers", description: "Trusted by businesses worldwide" },
     { icon: Award, number: "99.5%", label: "On-Time Delivery", description: "Consistent reliability record" },
-    { icon: TrendingUp, number: "2M+", label: "Shipments Delivered", description: "Successfully completed" },
+    { icon: TrendingUp, number: "10000+", label: "Shipments Delivered", description: "Successfully completed" },
   ];
 
   const milestones = [
-    { year: "2015", title: "Company Founded", description: "DedSilva PTY LTD established in the UK" },
+    { year: "2015", title: "Company Founded", description: "DedSilva international LTD established in kenya" },
     { year: "2017", title: "Global Expansion", description: "Extended services to 50+ countries" },
     { year: "2019", title: "Technology Innovation", description: "Launched real-time tracking platform" },
     { year: "2021", title: "Sustainability Focus", description: "Introduced eco-friendly shipping options" },
@@ -29,8 +29,8 @@ const About = () => {
             About <span className="text-primary">DedSilva</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Founded with a vision to deliver results that endure, DedSilva PTY LTD has grown 
-            from a UK-based startup to a global logistics leader, connecting businesses across the world.
+            Founded with a vision to deliver results that endure, DedSilva international LTD has grown 
+            from a kenya-based startup to a global logistics leader, connecting businesses across the world.
           </p>
         </div>
 
@@ -69,7 +69,7 @@ const About = () => {
             </h3>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                At DedSilva PTY LTD, we believe that logistics is more than just moving goods from 
+                At DedSilva international LTD, we believe that logistics is more than just moving goods from 
                 point A to point B. It's about building lasting relationships, creating reliable 
                 supply chains, and enabling businesses to thrive in a global marketplace.
               </p>

@@ -195,7 +195,7 @@ const TestimonialsSection = () => {
             </div>
             <div className="group cursor-pointer">
               <div className="text-2xl font-bold text-primary mb-1 group-hover:scale-110 transition-transform duration-300">
-                45+
+                5+
               </div>
               <div className="text-sm text-muted-foreground">Countries Served</div>
             </div>

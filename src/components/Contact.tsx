@@ -35,14 +35,14 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Headquarters",
-      details: ["123 Logistics Way", "Manchester, UK M1 2AB"],
+      details: ["cardinal otunga ", "nairobi kenya"],
       link: "https://maps.google.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      details: ["+44 20 1234 5678", "+44 161 987 6543"],
-      link: "tel:+442012345678"
+      details: ["+254 25599722", "+254 255 99 722"],
+      link: "tel:+254 255 99 722"
     },
     {
       icon: Mail,
@@ -118,7 +118,7 @@ const Contact = () => {
                           required
                           value={formData.email}
                           onChange={handleInputChange}
-                          placeholder="john@company.com"
+                          placeholder="job@company.com"
                         />
                       </div>
                     </div>
@@ -204,7 +204,7 @@ const Contact = () => {
                   <div className="text-center">
                     <MapPin className="h-12 w-12 text-primary mx-auto mb-2" />
                     <p className="text-muted-foreground">Interactive Map</p>
-                    <p className="text-sm text-muted-foreground">Manchester, UK Office Location</p>
+                    <p className="text-sm text-muted-foreground">kenya, cardinal otunga plaza</p>
                   </div>
                 </div>
               </div>
